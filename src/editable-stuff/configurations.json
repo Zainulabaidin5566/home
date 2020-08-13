@@ -2,51 +2,51 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Hashir",
-  "MiddleName": "",
-  "LastName": "Shoaib",
-  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
+  "FirstName": "Zain",
+  "MiddleName": "Ul",
+  "LastName": "Abaidin",
+  "devDesc": "| MERN Developer ",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/Zainulabaidin5566",
       "style": "socialicons"
     },
     {
       "id": 1,
       "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashirshoaeb",
+      "url": "https://www.facebook.com/chzain.chzain.7/",
       "style": "socialicons"
     },
     {
       "id": 2,
       "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashirshoaeb/",
+      "url": "https://www.instagram.com/xain5566/",
       "style": "socialicons"
     },
     {
       "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashirshoaeb/",
+      "url": "https://www.linkedin.com/in/zain-ul-abaidin-a20680141/",
       "style": "socialicons"
     },
     {
       "id": 4,
       "image": "fa-twitter",
-      "url": "https://www.twitter.com/hashirshoaeb/",
+      "url": "https://twitter.com/zainula22596074",
       "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
   "showInstaProfilePic": true,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashirshoaeb",
+  "instaUsername": "xain5566",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "I'm Computer Engineer from NUST CEME, Pakistan with 3+ years of experience in web development. I’m currently the Vice President of student body at Emerging Technologies Research Lab(ETL) and a former Intern at RiseTech. I'm passionate about teaching machines how to think",
+  "aboutDescription": "I'm Computer Engineer from NUST CEME, Pakistan with 2+ years of experience in web development. I’m currently the Commettiee member of EME Center of Innovation and Entrepreneurship and a former Intern at R&D CEME NUST. I'm passionate about teaching machines how to think",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
+  "gitHubUsername": "Zainulabaidin5566",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 4,
   "showNavigationbar": true,
