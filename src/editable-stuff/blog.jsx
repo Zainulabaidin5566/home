@@ -1,6 +1,5 @@
 import { BlogBuilder } from "../components/blog/BlogBuilder";
 const bloglist = [];
-
 const blog = new BlogBuilder({
   title: "My First Blog",
   image: "img",
@@ -14,7 +13,6 @@ const blog = new BlogBuilder({
   .addParagraph(
     "2nd Paragraph Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ad, temporibus quae obcaecati eum expedita pariatur aspernatur recusandae beatae iste soluta sunt blanditiis dolore ipsam quia laboriosam quas perspiciatis architecto?"
   );
-
 const blog1 = new BlogBuilder({
   title: "My Second Blog",
   image: "img",
@@ -35,8 +33,6 @@ const blog1 = new BlogBuilder({
   .addParagraph(
     "2nd Paragraph Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ad, temporibus quae obcaecati eum expedita pariatur aspernatur recusandae beatae iste soluta sunt blanditiis dolore ipsam quia laboriosam quas perspiciatis architecto?"
   );
-
 bloglist.push(blog1);
 bloglist.push(blog);
-
 export default bloglist;
